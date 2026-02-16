@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.temp71" name="Temp71 Repository" version="1.0.0" provider-name="Temp71">
+    <extension point="xbmc.addon.repository" name="Temp71 Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Temp71/repository.temp71/master/</info>
+            <checksum>https://raw.githubusercontent.com/Temp71/repository.temp71/master/</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Temp71/repository.temp71/master/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Temp71 Kodi Repository</summary>
+        <description>Repository for Kodi addons</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <!-- Optional: Remove or comment out if not using images
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        -->
+    </extension>
+</addon>
